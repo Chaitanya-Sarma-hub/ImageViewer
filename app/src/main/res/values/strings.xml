@@ -3,4 +3,7 @@
     <string name="retry">Retry</string>
     <string name="results_cannot_be_loaded">Results cannot be loaded</string>
     <string name="no_results_found">No results found</string>
+    <string name="search">Search</string>
+    <string name="this_is_the_description">This is the description</string>
+    <string name="photo_by_xyz_on_unsplash">Photo by XYZ on unsplash</string>
 </resources>
